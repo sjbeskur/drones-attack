@@ -40,11 +40,11 @@ impl GameSounds {
 }
 
 fn init_audio(audio: &mut Audio){
-    audio.add("explode","explode.wav");
-    audio.add("lose","lose.wav");
-    audio.add("move","move.wav");
-    audio.add("laser","laser.wav");
-    audio.add("startup","startup.wav");
-    audio.add("win","win.wav");
+    audio.add("explode","sounds/explode.wav");
+    audio.add("lose","sounds/lose.wav");
+    audio.add("move","sounds/move.wav");
+    audio.add("laser","sounds/laser.wav");
+    audio.add("startup","sounds/startup.wav");
+    audio.add("win","sounds/win.wav");
     audio.wait();
 }
