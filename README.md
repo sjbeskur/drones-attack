@@ -48,5 +48,5 @@ cd target
 **esc** - quits the game
 
 
-![alt text](https://github.com/sjbeskur/drones-attack/screenshot.png?raw=true)
+![alt text](https://github.com/sjbeskur/drones-attack/blob/main/screenshot.png?raw=true)
 
